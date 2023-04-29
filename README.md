@@ -12,7 +12,7 @@ This code has no dependencies outside of standard web browser functionality.
 Files
 index.html: This file contains the HTML markup for the web application.
 nhgh.css: This file contains the CSS styles for the web application.
-ex7.js: This file contains the JavaScript code that handles the logic of the web application.
+script.js: This file contains the JavaScript code that handles the logic of the web application.
 
 
 
