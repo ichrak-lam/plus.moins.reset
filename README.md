@@ -41,8 +41,3 @@ This code has no dependencies outside of standard web browser functionality.
 Files
 This code is standalone and does not require any additional files.
 
-Authors
-This code was written by an unknown author.
-
-License
-This code has no specified license.
